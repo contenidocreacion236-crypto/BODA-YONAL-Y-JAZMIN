@@ -4,7 +4,7 @@
  ├── js
  │   └── script.js
  ├── images
- │   └── fotos
+ │   └── <img width="1200" height="1600" alt="Imagen de WhatsApp 2025-02-19 a las 20 49 03_01f10b5c" src="https://github.com/user-attachments/assets/1686a3fb-14b6-47a1-bf77-4a7fccabc66e" />
  ├── music
  │   └── song.mp3
  └── index.html
