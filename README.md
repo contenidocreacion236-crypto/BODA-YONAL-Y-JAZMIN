@@ -1,6 +1,7 @@
 📁 assets
  ├── css
- │   └── style.css
+ │   └── <img width="1024" height="1202" alt="boda1" src="https://github.com/user-attachments/assets/10bd0a86-fc99-49c7-a81e-89d5a41c457c" />
+.css
  ├── js
  │   └── script.js
  ├── images
